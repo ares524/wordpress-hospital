@@ -1,3 +1,5 @@
+ wordpress-5.1.2 required 
+ 
 ## Wordpress hospital management and free theme
 
 <a href="https://stnc.github.io/wow-intro/"> FULL DETAIL  </a>
