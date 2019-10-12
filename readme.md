@@ -1,4 +1,4 @@
- wordpress-5.1.2 required 
+
  
 ## Wordpress hospital management and free theme
 
@@ -7,6 +7,8 @@
 <a href="https://github.com/stnc/wordress-free-medical-theme/archive/master.zip">Free Download</a>
 
 <a href="https://stnc.github.io/wow-doc/">Documentation</a>
+
+ wordpress-5.1.2 compatible  
 
 ## FREE version 
 
